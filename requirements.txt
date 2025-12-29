@@ -1,0 +1,3 @@
+# CUPP-PRO requirements
+# Python 3.8+
+# Uses Python standard library only
